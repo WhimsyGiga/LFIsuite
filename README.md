@@ -1,4 +1,4 @@
-"All credits goes to d35m0nd142. I just removed the termcolor python module requirement wich causes the script to not work"
+"All credits goes to d35m0nd142. I just removed the termcolor python module requirement wich causes the script to not work"<br>
 "Last official update by the owner of the script was on Apr 8, 2018" 
 
 ![Version 1.13](https://img.shields.io/badge/Version-1.13-green.svg)
