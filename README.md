@@ -1,3 +1,6 @@
+"All credits goes to d35m0nd142. I just removed the termcolor python module requirement wich causes the script to not work"
+"Last official update by the owner of the script was on Apr 8, 2018" 
+
 ![Version 1.13](https://img.shields.io/badge/Version-1.13-green.svg)
 ![Python 2.7.x](https://img.shields.io/badge/Python-2.7.x-yellow.svg)
 [![GPLv3 License](https://img.shields.io/badge/License-GPLv3-red.svg)](https://github.com/D35m0nd142/LFISuite/blob/master/COPYING.GPL)
@@ -42,7 +45,7 @@ When you got a LFI shell by using one of the available attacks, you can easily o
 <h3> Dependencies </h3>
 
 * Python <b>2.7</b>.x
-* Python extra modules: termcolor, requests
+* Python extra modules: requests
 * socks.py 
 
 > When you run the script, in case you are missing some modules, it will check if you have <b>pip</b> installed and, in case you don't, it will install it <b>automatically</b>, then using pip it will install also the missing modules and download the necessary file <b>socks.py</b>.<br>I tried it on different operating systems (Debian,Ubuntu,Fedora,Windows 10,OS X) and it worked great, but if something strange happens to you and the automatic installation of pip and other modules fails, please install missing modules manually and re-run the script.
