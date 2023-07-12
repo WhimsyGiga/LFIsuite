@@ -1,6 +1,8 @@
 <h3>"All credits goes to d35m0nd142. I just removed the termcolor python module requirement wich causes the script to not work"</h3>
 <h4>"Last official update by the owner of the script was on Apr 8, 2018" </h4>
 
+<hr>
+
 ![Version 1.13](https://img.shields.io/badge/Version-1.13-green.svg)
 ![Python 2.7.x](https://img.shields.io/badge/Python-2.7.x-yellow.svg)
 [![GPLv3 License](https://img.shields.io/badge/License-GPLv3-red.svg)](https://github.com/D35m0nd142/LFISuite/blob/master/COPYING.GPL)
