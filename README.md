@@ -1,3 +1,5 @@
+<a href="https://www.buymeacoffee.com/Tommi"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a Coffeec&emoji=☕&slug=Tommi&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
+
 <h3>"All credits goes to d35m0nd142. I just removed the termcolor python module requirement wich causes the script to not work"</h3>
 <h4>"Last official update by the owner of the script was on Apr 8, 2018" </h4>
 
